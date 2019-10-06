@@ -1,0 +1,1408 @@
+13.6 m²;8 900 €;Cergy
+11.5 m²;8 900 €;Cergy
+12 m²;21 375 €;Paris 15ème
+14 m²;29 000 €;Paris 14ème
+10 m²;50 000 €;Paris 8ème
+300 m²;360 000 €;Paris 19ème
+11 m²;12 500 €;Paris 13ème
+26 m²;19 000 €;Le Bourget
+10 m²;23 000 €;Paris 11ème
+12 m²;35 000 €;Paris 16ème
+12 m²;49 000 €;Paris 3ème
+150 m²;257 250 €;Paris 20ème
+12 m²;33 000 €;Paris 8ème
+11 m²;40 000 €;Paris 9ème
+11 m²;16 800 €;Paris 19ème
+11 m²;20 600 €;Paris 20ème
+12 m²;22 000 €;Paris 20ème
+14 m²;31 000 €;Paris 17ème
+12 m²;52 000 €;Paris 8ème
+10 m²;60 000 €;Paris 16ème
+17 m²;75 000 €;Paris 16ème
+14 m²;13 500 €;Verneuil sur Seine
+11.04 m²;18 500 €;Rueil Malmaison
+12 m²;24 500 €;Issy-les-Moulineaux
+12 m²;25 000 €;Paris 15ème
+10 m²;95 000 €;Paris 7ème
+23.76 m²;10 000 €;Cormeilles en Parisis
+9 m²;15 000 €;Paris 18ème
+11 m²;19 500 €;Maisons Alfort
+10 m²;29 400 €;Paris 15ème
+10 m²;30 000 €;Paris 15ème
+12 m²;29 000 €;Paris 11ème
+10 m²;22 400 €;Paris 15ème
+12 m²;35 000 €;Paris 15ème
+11 m²;40 000 €;Paris 7ème
+12 m²;14 500 €;Champigny sur Marne
+10 m²;16 000 €;Paris 11ème
+12 m²;17 000 €;St Ouen
+10 m²;20 000 €;Paris 11ème
+13 m²;30 000 €;Paris 12ème
+11 m²;34 500 €;Paris 15ème
+11 m²;40 000 €;Paris 7ème
+13.3 m²;11 900 €;Ris Orangis
+21 m²;16 200 €;Crosne
+11.5 m²;25 000 €;Paris 20ème
+13.25 m²;66 000 €;Paris 18ème
+10 m²;15 000 €;Paris 19ème
+11.25 m²;15 000 €;Paris 13ème
+10 m²;17 000 €;St Cloud
+12.65 m²;55 000 €;Paris 16ème
+14.78 m²;11 000 €;La Ferte Alais
+11.96 m²;21 900 €;Paris 12ème
+13 m²;40 000 €;Paris 17ème
+15 m²;8 990 €;Vaucresson
+30 m²;66 000 €;Saint Mande
+12 m²;15 000 €;Sartrouville
+12 m²;11 880 €;Crosne
+14.1 m²;22 500 €;Champigny sur Marne
+14 m²;34 500 €;Paris 18ème
+12 m²;35 000 €;Paris 11ème
+12 m²;40 000 €;Paris 7ème
+15 m²;31 000 €;Paris 11ème
+15 m²;16 200 €;Dourdan
+24 m²;36 000 €;Colombes
+14.5 m²;31 500 €;Paris 14ème
+13.25 m²;20 000 €;Creteil
+12.48 m²;14 500 €;Paris 20ème
+11.63 m²;14 500 €;Paris 20ème
+10.51 m²;15 500 €;Paris 20ème
+15 m²;17 000 €;Paris 19ème
+71 m²;40 000 €;Les Pavillons-sous-Bois
+16 m²;70 900 €;Paris 16ème
+51 m²;104 000 €;Noisy-le-Sec
+14 m²;9 000 €;Vitry-sur-Seine
+11.44 m²;50 000 €;Paris 6ème
+11 m²;12 000 €;Pontault-Combault
+12 m²;13 000 €;Yerres
+10.63 m²;17 500 €;Paris 19ème
+10 m²;18 500 €;Paris 20ème
+14 m²;8 999 €;Villemomble
+15 m²;8 999 €;Villemomble
+11 m²;21 000 €;Paris 11ème
+32.5 m²;42 000 €;Saint Maurice
+19.3 m²;70 000 €;Paris 16ème
+12 m²;34 000 €;Paris 16ème
+13.8 m²;13 900 €;Le Blanc Mesnil
+11 m²;27 900 €;Neuilly sur Seine
+11.2 m²;28 500 €;Vincennes
+25 m²;41 000 €;Paris 15ème
+14 m²;45 000 €;Paris 8ème
+23 m²;71 000 €;Paris 16ème
+14 m²;22 000 €;Paris 18ème
+12 m²;39 900 €;Paris 16ème
+411 m²;162 000 €;Viry Chatillon
+13 m²;6 500 €;Longperrier
+12.78 m²;36 680 €;Paris 15ème
+12 m²;28 000 €;Paris 11ème
+11 m²;29 500 €;Paris 10ème
+9 m²;29 000 €;Paris 15ème
+10 m²;19 000 €;Paris 11ème
+9.4 m²;42 000 €;Paris 16ème
+12 m²;28 200 €;Paris 11ème
+12 m²;32 000 €;Paris 11ème
+15 m²;13 500 €;Ste Genevieve des Bois
+12 m²;26 000 €;Paris 4ème
+20 m²;29 000 €;Paris 17ème
+12 m²;20 000 €;Paris 10ème
+12 m²;45 000 €;Paris 18ème
+10 m²;5 200 €;Montigny-Lès-Cormeilles
+10 m²;6 000 €;Saint-Germain-en-Laye
+10 m²;6 000 €;Saint-Germain-en-Laye
+10 m²;6 000 €;Saint-Germain-en-Laye
+10 m²;6 250 €;Roissy-en-Brie
+11.5 m²;8 000 €;Éragny
+13 m²;8 500 €;Lieusaint
+9.95 m²;9 200 €;Juvisy sur Orge
+12 m²;10 000 €;Serris
+8 m²;11 000 €;Paris 20ème
+12 m²;12 000 €;Chelles
+12 m²;13 000 €;Paris 19ème
+30 m²;14 000 €;Coulommiers
+10 m²;17 500 €;Paris 19ème
+12 m²;19 000 €;Sarcelles
+12 m²;19 500 €;Paris 18ème
+12.15 m²;19 990 €;Paris 15ème
+12 m²;20 500 €;Paris 10ème
+14 m²;21 000 €;Paris 10ème
+12 m²;21 500 €;Paris 12ème
+10.22 m²;22 000 €;Boulogne-Billancourt
+12.5 m²;22 000 €;Paris 18ème
+12.5 m²;22 000 €;Paris 18ème
+12 m²;22 000 €;Paris 12ème
+9.92 m²;22 000 €;Paris 15ème
+14 m²;22 000 €;Paris 5ème
+9.92 m²;22 000 €;Paris 15ème
+12 m²;22 490 €;Montreuil
+12 m²;23 000 €;Paris 12ème
+12 m²;23 500 €;Paris 12ème
+15 m²;24 000 €;Massy
+16 m²;24 000 €;Paris 19ème
+14 m²;24 000 €;Paris 14ème
+13 m²;24 990 €;Paris 12ème
+12 m²;25 000 €;Levallois-Perret
+25 m²;25 000 €;Le Raincy
+12 m²;25 000 €;Paris 14ème
+13.51 m²;25 000 €;Asnieres sur Seine
+11.85 m²;25 000 €;Antony
+11.75 m²;26 000 €;Paris 10ème
+12 m²;26 500 €;Paris 12ème
+20 m²;27 500 €;Paris 19ème
+33 m²;29 500 €;Chambry
+15 m²;32 000 €;Paris 20ème
+15 m²;33 000 €;Paris 11ème
+15 m²;33 000 €;Paris 11ème
+15 m²;33 000 €;Paris 15ème
+15 m²;34 000 €;Gif-sur-Yvette
+12.5 m²;34 500 €;Paris 10ème
+12.5 m²;35 000 €;Paris 15ème
+20 m²;35 000 €;Paris 15ème
+20 m²;35 000 €;Paris 10ème
+15.63 m²;35 990 €;Paris 10ème
+12 m²;36 750 €;Paris 8ème
+12 m²;36 750 €;Paris 8ème
+12 m²;36 750 €;Paris 8ème
+14 m²;38 000 €;Paris 9ème
+16 m²;38 000 €;Montreuil
+12 m²;38 850 €;Paris 8ème
+12 m²;39 000 €;Paris 3ème
+12 m²;39 375 €;Paris 8ème
+12 m²;42 000 €;Paris 8ème
+16 m²;44 000 €;Paris 5ème
+90 m²;45 000 €;Coulommiers
+12 m²;47 933 €;Paris 8ème
+12 m²;50 000 €;Paris 7ème
+25 m²;50 000 €;Paris 17ème
+33 m²;54 000 €;Paris 13ème
+10 m²;55 000 €;Paris 8ème
+11 m²;60 000 €;Paris 8ème
+24 m²;65 000 €;Paris 5ème
+29 m²;67 000 €;Paris 17ème
+140 m²;71 000 €;Étampes
+33 m²;90 000 €;Paris 7ème
+21 m²;94 500 €;Dammarie-les-Lys
+11 m²;115 000 €;Paris 16ème
+65.02 m²;235 000 €;Guyancourt
+21 m²;275 000 €;Paris 7ème
+250 m²;572 000 €;Argenteuil
+950 m²;700 000 €;Bondy
+2405 m²;910 000 €;Maisse
+7 m²;4 800 €;Le Mée-sur-Seine
+12 m²;4 800 €;Brie-Comte-Robert
+12 m²;7 500 €;Creteil
+9 m²;9 000 €;Champigny-sur-Marne
+13 m²;9 000 €;Chatenay Malabry
+12 m²;10 000 €;Creteil
+9.4 m²;10 000 €;Montrouge
+14 m²;12 500 €;Cergy
+10.42 m²;12 500 €;Roissy-en-Brie
+9 m²;13 750 €;Les Lilas
+9 m²;14 000 €;Paris 13ème
+15 m²;14 000 €;Évry
+13 m²;14 000 €;Aubervilliers
+10 m²;14 000 €;Le Pré-Saint-Gervais
+10.84 m²;14 500 €;Paris 20ème
+14 m²;15 000 €;Étampes
+10 m²;15 000 €;Paris 18ème
+14.7 m²;15 000 €;Bretigny sur Orge
+14.7 m²;15 000 €;Bretigny sur Orge
+13 m²;16 000 €;Creteil
+18 m²;17 000 €;La Courneuve
+12.5 m²;17 000 €;Colombes
+12 m²;18 000 €;Paris 15ème
+11.83 m²;18 000 €;Plaisir
+11 m²;18 000 €;Paris 10ème
+10 m²;19 000 €;Vitry sur Seine
+11.96 m²;19 000 €;Paris 6ème
+12 m²;19 500 €;Courbevoie
+18 m²;19 700 €;Livry Gargan
+12 m²;19 900 €;Paris 12ème
+25 m²;20 000 €;Étampes
+9 m²;20 000 €;Paris 14ème
+12 m²;20 000 €;Paris 15ème
+11 m²;20 300 €;Paris 20ème
+11 m²;20 500 €;Paris 12ème
+12 m²;20 500 €;Paris 20ème
+20 m²;22 000 €;Chelles
+11 m²;22 000 €;Clichy
+12 m²;22 990 €;Paris 10ème
+12 m²;23 000 €;Paris 19ème
+10.23 m²;23 000 €;Paris 14ème
+12 m²;23 000 €;Paris 12ème
+10.5 m²;23 000 €;Paris 11ème
+9 m²;24 000 €;Paris 12ème
+11 m²;25 000 €;Paris 11ème
+15 m²;26 000 €;Antony
+12 m²;27 000 €;Paris 11ème
+12 m²;27 000 €;Paris 15ème
+12.5 m²;28 000 €;Paris 18ème
+18 m²;28 000 €;Paris 15ème
+18 m²;28 000 €;Paris 19ème
+13 m²;28 000 €;Paris 5ème
+12 m²;29 000 €;Paris 10ème
+12 m²;29 000 €;Paris 14ème
+12 m²;30 000 €;Paris 11ème
+13 m²;30 000 €;Paris 9ème
+11 m²;30 000 €;Paris 20ème
+12.5 m²;30 375 €;Paris 14ème
+12 m²;31 500 €;Paris 14ème
+12 m²;31 500 €;Paris 5ème
+12 m²;32 000 €;Paris 9ème
+12 m²;32 500 €;Paris 14ème
+12.5 m²;32 500 €;Paris 11ème
+12 m²;32 500 €;Paris 5ème
+14 m²;33 500 €;Ivry-sur-Seine
+12 m²;34 000 €;Paris 14ème
+10 m²;34 500 €;Paris 16ème
+12.5 m²;35 000 €;Paris 14ème
+12.68 m²;35 000 €;Paris 6ème
+12 m²;35 000 €;Paris 15ème
+12 m²;36 000 €;Paris 3ème
+12 m²;36 500 €;Paris 10ème
+12 m²;37 000 €;Paris 10ème
+13 m²;38 048 €;Paris 11ème
+12 m²;39 000 €;Paris 9ème
+12 m²;39 000 €;Paris 17ème
+18 m²;39 200 €;Paris 14ème
+9.5 m²;42 000 €;Paris 6ème
+10 m²;45 000 €;Paris 17ème
+12 m²;45 000 €;Paris 17ème
+13.4 m²;45 500 €;Paris 17ème
+12 m²;47 000 €;Paris 17ème
+12 m²;47 500 €;Paris 3ème
+10 m²;49 000 €;Paris 6ème
+10 m²;55 000 €;Paris 16ème
+11.45 m²;56 000 €;Paris 16ème
+11 m²;57 500 €;Paris 16ème
+15 m²;59 000 €;Paris 16ème
+12 m²;60 000 €;Paris 16ème
+14 m²;60 000 €;Paris 16ème
+12.5 m²;73 000 €;Paris 6ème
+12.5 m²;73 000 €;Paris 7ème
+75 m²;79 000 €;Poissy
+22 m²;85 000 €;Paris 9ème
+22 m²;85 000 €;Paris 18ème
+1 m²;89 000 €;Chevilly-Larue
+21 m²;115 000 €;Paris 16ème
+62.71 m²;155 000 €;Franconville la Garenne
+84 m²;190 400 €;Paris 11ème
+16.72 m²;210 000 €;Paris 7ème
+20 m²;42 000 €;Paris 16ème
+13 m²;3 500 €;Longpont-sur-Orge
+7 m²;4 800 €;Le Mée-sur-Seine
+13 m²;5 500 €;Sarcelles
+11 m²;5 900 €;Ézanville
+13 m²;6 000 €;Viry-Châtillon
+13 m²;6 500 €;Corbeil-Essonnes
+3.5 m²;7 550 €;Chessy
+12 m²;8 000 €;Creteil
+13 m²;8 490 €;Pierrefitte-sur-Seine
+20 m²;8 500 €;Cergy
+10 m²;8 500 €;Beaumont-sur-Oise
+10 m²;8 500 €;Beaumont-sur-Oise
+10 m²;8 500 €;Beaumont-sur-Oise
+23 m²;11 000 €;Grigny
+10 m²;11 000 €;Verrières-le-Buisson
+11 m²;12 000 €;Bobigny
+15 m²;12 000 €;Bussy-Saint-Georges
+11 m²;12 500 €;Roissy-en-Brie
+10 m²;13 000 €;Nanterre
+11 m²;13 500 €;Paris 20ème
+12 m²;13 500 €;Bussy-Saint-Georges
+12 m²;14 500 €;Gagny
+22 m²;15 000 €;Montreuil
+14 m²;15 000 €;Meaux
+12.64 m²;15 000 €;Boissy-Saint-Léger
+14 m²;15 000 €;Meaux
+10 m²;15 500 €;Paris 13ème
+12 m²;17 000 €;Champigny-sur-Marne
+13 m²;17 000 €;Créteil
+15 m²;17 400 €;Cergy
+5 m²;17 600 €;Paris 16ème
+12.7 m²;18 000 €;Paris 12ème
+8.25 m²;18 000 €;Paris 15ème
+12 m²;19 000 €;Paris 10ème
+12 m²;19 375 €;Paris 15ème
+12 m²;19 500 €;Nanterre
+22 m²;20 000 €;Les Pavillons sous Bois
+22 m²;21 000 €;Enghien-les-Bains
+10 m²;22 000 €;Paris 10ème
+11.39 m²;23 000 €;Paris 10ème
+11 m²;23 000 €;Paris 14ème
+13 m²;23 000 €;Brie-Comte-Robert
+11 m²;23 000 €;Paris 12ème
+11 m²;23 500 €;Paris 12ème
+10 m²;25 000 €;Le Pré-Saint-Gervais
+13.2 m²;25 000 €;Nogent-sur-Marne
+13.2 m²;25 000 €;Nogent-sur-Marne
+4 m²;25 500 €;Paris 2ème
+11 m²;26 000 €;Paris 15ème
+11.5 m²;26 000 €;Paris 15ème
+9.74 m²;30 000 €;Paris 4ème
+13 m²;30 000 €;Villemomble
+12 m²;32 000 €;Montrouge
+12 m²;34 000 €;Montrouge
+12.5 m²;35 000 €;Paris 18ème
+12 m²;39 000 €;Paris 9ème
+11 m²;39 600 €;Paris 2ème
+50 m²;40 000 €;Pantin
+11.2 m²;40 000 €;Paris 6ème
+10 m²;42 000 €;Paris 4ème
+12.5 m²;42 000 €;Paris 8ème
+14 m²;60 000 €;Paris 16ème
+12.5 m²;62 000 €;Paris 6ème
+50 m²;149 500 €;Athis-Mons
+70 m²;165 000 €;Issy-les-Moulineaux
+12 m²;6 500 €;Creteil
+6 m²;6 500 €;Champigny-sur-Marne
+6 m²;6 500 €;Corbeil-Essonnes
+12 m²;7 000 €;Bagnolet
+11.5 m²;8 000 €;Choisy-le-Roi
+11 m²;8 000 €;Saint-Gratien
+11 m²;8 000 €;Les Ulis
+12 m²;8 000 €;Villeparisis
+15 m²;8 500 €;Ville-Saint-Jacques
+22 m²;9 000 €;Villeparisis
+9.7 m²;9 350 €;Aubervilliers
+12 m²;9 500 €;Evry
+12 m²;10 000 €;Noisy-le-Roi
+12 m²;10 000 €;Beaumont-sur-Oise
+12 m²;10 000 €;Avon
+12 m²;10 000 €;Avon
+7 m²;10 000 €;Paris 19ème
+12 m²;10 600 €;Bussy-Saint-Georges
+12 m²;11 000 €;Achères
+26 m²;11 300 €;Orsay
+15 m²;11 500 €;Paris 13ème
+10 m²;11 500 €;Pontoise
+10 m²;12 000 €;Fresnes
+11.5 m²;12 000 €;Franconville
+12.5 m²;12 000 €;Orly
+12 m²;12 000 €;Bussy-Saint-Georges
+14 m²;12 000 €;Le Mée-sur-Seine
+10 m²;12 000 €;Suresnes
+12 m²;12 000 €;Dammarie-les-Lys
+10 m²;12 000 €;Paris 13ème
+14 m²;12 000 €;Boussy-Saint-Antoine
+13 m²;12 000 €;Aubervilliers
+13 m²;12 000 €;Aubervilliers
+15 m²;12 900 €;Evry
+10 m²;13 000 €;Bourg-la-Reine
+12 m²;13 000 €;Montfermeil
+12.5 m²;13 000 €;Savigny-sur-Orge
+12 m²;13 000 €;Achères
+12.5 m²;13 500 €;Ivry-sur-Seine
+13 m²;13 500 €;Achères
+11 m²;14 000 €;Ivry-sur-Seine
+10 m²;14 000 €;Beaumont-sur-Oise
+10 m²;14 000 €;Saint-Ouen
+15 m²;14 000 €;Achères
+11 m²;14 500 €;Maisons Alfort
+16 m²;14 500 €;Paris 20ème
+4 m²;15 000 €;Paris 12ème
+12.45 m²;15 000 €;Louveciennes
+11 m²;15 000 €;Le Kremlin-Bicêtre
+15 m²;15 000 €;Montereau-Fault-Yonne
+12 m²;15 000 €;Yerres
+10 m²;15 000 €;Paris 20ème
+11.76 m²;15 680 €;Paris 12ème
+8.55 m²;16 000 €;Paris 15ème
+15 m²;16 000 €;Paris 20ème
+15 m²;16 000 €;Paris 20ème
+12 m²;17 000 €;Noisy-le-Sec
+15 m²;17 000 €;Palaiseau
+10 m²;17 300 €;Paris 19ème
+16.47 m²;17 500 €;Maisons Alfort
+12 m²;17 700 €;Courbevoie
+12.5 m²;18 000 €;Nanterre
+13.25 m²;18 000 €;Montrouge
+13.9 m²;18 500 €;Fresnes
+15 m²;19 000 €;Villeparisis
+10 m²;19 000 €;Paris 11ème
+10 m²;19 000 €;Nogent-sur-Marne
+10.5 m²;19 500 €;Courbevoie
+13 m²;20 000 €;Colombes
+9 m²;20 900 €;Paris 15ème
+12 m²;21 000 €;Paris 19ème
+24 m²;21 000 €;Charenton-le-Pont
+15.53 m²;21 500 €;Ivry sur Seine
+25 m²;22 000 €;Pantin
+12.5 m²;22 000 €;Rueil-Malmaison
+13 m²;22 000 €;Paris 11ème
+9 m²;22 300 €;Paris 12ème
+12 m²;22 500 €;Paris 12ème
+10 m²;23 000 €;Paris 14ème
+13 m²;23 000 €;Issy les Moulineaux
+15 m²;24 000 €;Bagnolet
+12.25 m²;24 500 €;Paris 20ème
+10 m²;24 500 €;Paris 15ème
+12 m²;25 000 €;Paris 12ème
+12 m²;25 000 €;Paris 15ème
+15 m²;25 000 €;Paris 15ème
+22 m²;25 000 €;Paris 20ème
+10.32 m²;25 000 €;Paris 18ème
+10 m²;25 000 €;Paris 18ème
+11.35 m²;25 000 €;Bagneux
+12 m²;25 490 €;Paris 9ème
+17 m²;25 500 €;Montrouge
+12 m²;26 000 €;Issy les Moulineaux
+11 m²;26 000 €;Paris 13ème
+12 m²;26 000 €;Paris 15ème
+11.5 m²;27 000 €;Sceaux
+11 m²;27 000 €;Paris 9ème
+11 m²;27 500 €;Paris 11ème
+16 m²;28 000 €;Paris 15ème
+13 m²;28 000 €;Paris 19ème
+10 m²;28 000 €;Paris 11ème
+10 m²;28 000 €;Paris 11ème
+10 m²;28 000 €;Paris 18ème
+10 m²;29 000 €;Paris 18ème
+24 m²;29 400 €;Paris 14ème
+32 m²;29 500 €;Paris 20ème
+12 m²;31 250 €;Paris 9ème
+12 m²;31 250 €;Paris 9ème
+12 m²;32 000 €;Paris 15ème
+12 m²;32 000 €;Paris 14ème
+14 m²;32 500 €;Paris 11ème
+13 m²;33 000 €;Paris 6ème
+13.5 m²;35 000 €;Paris 14ème
+15 m²;35 000 €;Paris 9ème
+12 m²;35 000 €;Paris 15ème
+25 m²;35 000 €;Paris 18ème
+11 m²;38 000 €;Paris 17ème
+25.4 m²;38 684 €;Asnieres sur Seine
+15 m²;39 500 €;Levallois Perret
+12 m²;42 000 €;Paris 8ème
+21.29 m²;43 000 €;Paris 20ème
+20 m²;43 000 €;Le Chesnay
+10 m²;43 000 €;Paris 4ème
+12 m²;44 000 €;Paris 8ème
+13 m²;44 900 €;Paris 17ème
+18 m²;45 000 €;Paris 17ème
+15 m²;48 000 €;Paris 11ème
+12 m²;52 500 €;Paris 5ème
+13 m²;55 000 €;Paris 8ème
+28.45 m²;55 000 €;Paris 20ème
+10 m²;55 000 €;Paris 6ème
+12.5 m²;60 000 €;Paris 16ème
+30 m²;60 000 €;Paris 17ème
+12.5 m²;65 000 €;Paris 4ème
+24 m²;67 000 €;Boulogne-Billancourt
+20 m²;69 000 €;Paris 16ème
+20 m²;80 000 €;Paris 17ème
+25.71 m²;88 000 €;Saint Mande
+12.5 m²;110 000 €;Drancy
+176 m²;200 000 €;Suresnes
+11 m²;19 000 €;Paris 14ème
+10 m²;20 000 €;Paris 12ème
+10 m²;3 500 €;Evry
+13 m²;7 500 €;Corbeil Essonnes
+12 m²;8 500 €;Grigny
+8.5 m²;9 900 €;Paris 14ème
+9 m²;10 800 €;Nogent-sur-Marne
+12.5 m²;11 500 €;Ris Orangis
+13 m²;13 000 €;Houdan
+9 m²;14 000 €;Paris 20ème
+16 m²;15 500 €;Montreuil
+10 m²;16 000 €;Paris 20ème
+12 m²;16 500 €;Paris 15ème
+13 m²;17 000 €;Paris 20ème
+13 m²;18 000 €;Paris 20ème
+10 m²;18 000 €;Paris 19ème
+14 m²;20 000 €;Paris 20ème
+15 m²;21 000 €;Paris 7ème
+13.2 m²;22 000 €;Rueil-Malmaison
+12.95 m²;22 500 €;Ivry sur Seine
+12.6 m²;23 000 €;Clamart
+10 m²;23 000 €;Paris 12ème
+11.3 m²;23 000 €;Paris 11ème
+22 m²;24 000 €;Paris 12ème
+10 m²;24 500 €;Paris 19ème
+12.5 m²;26 000 €;Paris 19ème
+7 m²;26 000 €;Paris 9ème
+25 m²;28 000 €;Montgeron
+11.2 m²;28 500 €;Fontenay sous Bois
+12 m²;30 000 €;Paris 17ème
+8 m²;30 000 €;Paris 9ème
+9 m²;30 900 €;Paris 3ème
+20 m²;32 000 €;Paris 18ème
+10 m²;32 000 €;Paris 15ème
+14 m²;32 000 €;La Celle Saint Cloud
+13 m²;34 900 €;Paris 3ème
+15 m²;35 000 €;Paris 8ème
+12.5 m²;35 000 €;Paris 3ème
+10 m²;39 000 €;Paris 4ème
+12 m²;40 000 €;Paris 17ème
+12 m²;55 000 €;Paris 16ème
+12.2 m²;60 000 €;Paris 16ème
+18 m²;71 500 €;Paris 16ème
+17 m²;73 000 €;Paris 16ème
+12 m²;74 000 €;Paris 6ème
+28 m²;111 000 €;Paris 11ème
+6 m²;6 750 €;Juvisy-sur-Orge
+1 m²;7 700 €;Pontault Combault
+12 m²;8 000 €;Villennes sur Seine
+15 m²;8 000 €;Bobigny
+12 m²;8 000 €;Saint-Germain-en-Laye
+9 m²;9 000 €;Paris 20ème
+10 m²;10 000 €;St Maur des Fosses
+11 m²;10 000 €;Eragny
+9 m²;10 080 €;Paris 12ème
+12.5 m²;11 000 €;Châtillon
+12 m²;11 000 €;Palaiseau
+14 m²;11 000 €;Le Bourget
+14 m²;11 000 €;Le Bourget
+12 m²;11 550 €;Le Bourget
+11.5 m²;11 900 €;Fresnes
+6 m²;12 000 €;Paris 18ème
+7 m²;12 000 €;Meudon la Foret
+24.56 m²;12 000 €;Eragny
+14 m²;12 990 €;Champs-sur-Marne
+10 m²;13 000 €;Le Kremlin Bicetre
+13 m²;13 000 €;Cregy les Meaux
+12 m²;14 000 €;Pantin
+11 m²;14 000 €;Paris 15ème
+6 m²;15 000 €;Paris 6ème
+12 m²;15 500 €;Paris 1er
+13.25 m²;16 000 €;Pantin
+12 m²;16 000 €;Paris 20ème
+11 m²;16 000 €;Paris 13ème
+20 m²;16 500 €;Corbeil Essonnes
+11 m²;16 500 €;Paris 12ème
+12 m²;16 500 €;Aubervilliers
+12 m²;17 000 €;Paris 19ème
+3 m²;17 000 €;Paris 17ème
+8 m²;17 500 €;Paris 15ème
+12.4 m²;17 500 €;Sucy en Brie
+12.4 m²;17 500 €;Sucy en Brie
+11.3 m²;17 500 €;Antony
+11.3 m²;17 500 €;Fresnes
+12 m²;18 000 €;Paris 19ème
+12 m²;18 000 €;Fresnes
+12 m²;18 500 €;Paris 16ème
+12 m²;18 700 €;Paris 7ème
+15 m²;19 500 €;Melun
+12 m²;20 000 €;Vanves
+10 m²;20 000 €;Paris 11ème
+14 m²;20 000 €;Puteaux
+10.4 m²;21 000 €;Paris 15ème
+12 m²;21 000 €;Paris 11ème
+12 m²;21 500 €;Paris 12ème
+20 m²;22 000 €;Montmorency
+13 m²;22 000 €;Paris 15ème
+12.85 m²;23 000 €;Paris 18ème
+11 m²;23 500 €;Paris 12ème
+12 m²;24 000 €;Clamart
+15 m²;25 000 €;Paris 18ème
+18 m²;25 000 €;Chatillon
+15 m²;26 000 €;Paris 15ème
+15 m²;26 000 €;Paris 15ème
+12 m²;27 000 €;Paris 11ème
+15 m²;27 000 €;Paris 10ème
+16 m²;27 500 €;Issy les Moulineaux
+12 m²;27 500 €;Paris 17ème
+20 m²;27 500 €;Paris 20ème
+13 m²;28 000 €;Paris 19ème
+12 m²;28 500 €;Paris 14ème
+12 m²;29 000 €;Paris 2ème
+15 m²;29 000 €;Paris 10ème
+12 m²;29 000 €;Paris 2ème
+13 m²;29 000 €;Paris 10ème
+13 m²;29 100 €;Paris 15ème
+20 m²;29 400 €;Paris 14ème
+12 m²;30 000 €;Paris 1er
+12 m²;30 000 €;Paris 18ème
+10 m²;30 000 €;Paris 19ème
+10.4 m²;31 000 €;Paris 20ème
+12 m²;31 000 €;Paris 8ème
+12 m²;31 000 €;Paris 15ème
+12 m²;31 500 €;Paris 8ème
+13 m²;32 000 €;Paris 18ème
+10 m²;33 000 €;Paris 17ème
+8.5 m²;33 000 €;Paris 7ème
+25.35 m²;33 000 €;Sucy en Brie
+10.08 m²;33 000 €;Paris 6ème
+12 m²;33 900 €;Paris 6ème
+10 m²;34 500 €;Paris 7ème
+12 m²;34 500 €;Paris 16ème
+12 m²;35 000 €;Paris 10ème
+12 m²;35 000 €;Boulogne-Billancourt
+12.75 m²;35 000 €;Paris 11ème
+12 m²;36 750 €;Paris 8ème
+12 m²;36 750 €;Paris 8ème
+12 m²;36 750 €;Paris 8ème
+12 m²;36 750 €;Paris 6ème
+11 m²;37 000 €;Paris 9ème
+12 m²;38 000 €;Paris 16ème
+11 m²;38 600 €;Paris 15ème
+1 m²;39 000 €;Saint-Mandé
+13.24 m²;39 000 €;Paris 11ème
+15 m²;39 500 €;Paris 17ème
+12 m²;39 900 €;Paris 16ème
+20.5 m²;40 000 €;Paris 12ème
+12 m²;41 000 €;Paris 17ème
+11 m²;43 000 €;Paris 8ème
+15 m²;45 000 €;Paris 16ème
+36 m²;45 000 €;Rambouillet
+30 m²;48 000 €;Paris 12ème
+14 m²;50 000 €;Paris 16ème
+14 m²;55 000 €;Paris 8ème
+10 m²;55 000 €;Paris 6ème
+12.75 m²;55 000 €;Paris 9ème
+13 m²;57 000 €;Paris 18ème
+62 m²;60 000 €;Epone
+12 m²;60 000 €;Paris 16ème
+13 m²;60 000 €;Paris 17ème
+19.09 m²;64 960 €;Serris
+11.5 m²;66 000 €;Paris 6ème
+14.28 m²;71 000 €;Paris 9ème
+25 m²;78 000 €;Paris 16ème
+25 m²;93 000 €;Paris 6ème
+22 m²;110 000 €;Paris 8ème
+168 m²;119 000 €;Epinay sur Seine
+25 m²;120 000 €;Paris 16ème
+88 m²;135 000 €;Issy les Moulineaux
+12 m²;146 000 €;Neuilly sur Seine
+12 m²;216 000 €;Neuilly sur Seine
+12 m²;10 000 €;Chatou
+9 m²;6 000 €;Esbly
+12 m²;8 500 €;Épinay-sur-Seine
+10 m²;10 800 €;Rueil-Malmaison
+9 m²;11 000 €;Louveciennes
+17 m²;12 000 €;Le Blanc-Mesnil
+10 m²;14 000 €;Noisy-le-Grand
+15 m²;14 300 €;Lisses
+13 m²;15 000 €;Antony
+12.42 m²;17 000 €;Paris 18ème
+9.38 m²;17 000 €;Paris 19ème
+12 m²;17 500 €;L Hay les Roses
+12 m²;18 000 €;Suresnes
+13 m²;18 000 €;Paris 19ème
+12 m²;18 000 €;Paris 11ème
+11 m²;18 000 €;Paris 19ème
+16 m²;19 000 €;Paris 19ème
+15 m²;19 000 €;Paris 19ème
+10 m²;19 500 €;Paris 6ème
+10 m²;22 000 €;Paris 20ème
+15 m²;23 500 €;Les Lilas
+12 m²;24 790 €;Paris 11ème
+28 m²;25 000 €;Versailles
+14.25 m²;25 500 €;Paris 20ème
+12 m²;26 500 €;Vincennes
+12 m²;27 500 €;Paris 10ème
+15 m²;28 000 €;Paris 20ème
+12 m²;28 000 €;Paris 14ème
+10 m²;28 600 €;Paris 2ème
+13 m²;29 100 €;Paris 15ème
+12 m²;29 700 €;Paris 1er
+14 m²;35 000 €;Paris 15ème
+1 m²;35 000 €;Paris 15ème
+12 m²;35 500 €;Paris 9ème
+34 m²;38 000 €;Paris 11ème
+10.25 m²;40 000 €;Paris 7ème
+12 m²;42 500 €;Paris 3ème
+12 m²;45 000 €;Paris 6ème
+25 m²;48 000 €;Paris 18ème
+10.5 m²;55 000 €;Paris 16ème
+11.5 m²;75 000 €;Paris 16ème
+14 m²;77 500 €;Paris 16ème
+72 m²;139 000 €;Vincennes
+13 m²;14 000 €;Drancy
+12 m²;7 700 €;Saint Denis
+15 m²;12 000 €;Bondoufle
+15 m²;14 300 €;Lisses
+13 m²;15 000 €;Bourg-la-Reine
+12 m²;19 000 €;Colombes
+12.5 m²;20 000 €;Saint Remy les Chevreuse
+12 m²;20 000 €;Paris 14ème
+12.5 m²;21 000 €;Paris 19ème
+9.24 m²;23 000 €;Paris 15ème
+15 m²;24 000 €;Levallois Perret
+14.68 m²;25 300 €;Paris 18ème
+12 m²;26 000 €;Paris 18ème
+8 m²;26 800 €;Paris 15ème
+12 m²;28 000 €;Paris 18ème
+8 m²;28 600 €;Paris 5ème
+12 m²;29 500 €;Puteaux
+10 m²;30 000 €;Paris 12ème
+8.66 m²;30 000 €;Paris 6ème
+13 m²;32 000 €;Paris 15ème
+12 m²;33 000 €;Paris 11ème
+15 m²;33 000 €;Paris 15ème
+12 m²;39 000 €;Paris 12ème
+10 m²;42 000 €;Paris 18ème
+12.3 m²;48 000 €;Paris 20ème
+25 m²;49 000 €;Paris 19ème
+5 m²;53 500 €;Paris 16ème
+12 m²;57 000 €;Paris 17ème
+14 m²;65 000 €;Paris 16ème
+26 m²;69 000 €;Paris 11ème
+14 m²;73 000 €;Paris 9ème
+14 m²;242 000 €;Aubervilliers
+12 m²;3 500 €;Pontault Combault
+5 m²;4 500 €;Paris 18ème
+8 m²;6 000 €;Maurepas
+12 m²;7 000 €;Pontault Combault
+14 m²;7 000 €;Corbeil Essonnes
+12 m²;7 500 €;Saint Maur des Fosses
+6 m²;8 000 €;Elancourt
+10 m²;8 000 €;Les Lilas
+11 m²;8 900 €;Draveil
+5 m²;9 000 €;Paris 13ème
+11 m²;9 000 €;Argenteuil
+15 m²;9 400 €;Colombes
+15 m²;10 000 €;Le Mée-sur-Seine
+16 m²;10 000 €;Saint Michel sur Orge
+12 m²;10 000 €;Chennevieres sur Marne
+12 m²;10 250 €;Massy
+12.5 m²;10 500 €;Draveil
+10 m²;11 000 €;Paris 11ème
+12.5 m²;11 000 €;Le Plessis-Trévise
+12 m²;11 000 €;Paris 19ème
+12.5 m²;11 500 €;Montreuil
+17 m²;11 750 €;Meaux
+11.5 m²;11 900 €;Fresnes
+25 m²;12 000 €;Houilles
+12 m²;12 000 €;Ivry-sur-Seine
+12 m²;12 500 €;Paris 20ème
+15 m²;12 500 €;Conflans Sainte Honorine
+12 m²;13 000 €;Chevilly-Larue
+10 m²;13 000 €;Vélizy-Villacoublay
+14 m²;13 000 €;Paris 13ème
+14 m²;13 000 €;Gif sur Yvette
+14 m²;13 000 €;Argenteuil
+13 m²;13 000 €;La Courneuve
+14.2 m²;13 000 €;Athis Mons
+15 m²;13 000 €;Athis Mons
+10 m²;14 000 €;Aubervilliers
+14 m²;14 000 €;Alfortville
+12.5 m²;14 500 €;Franconville
+14 m²;15 000 €;Pontault-Combault
+13 m²;15 000 €;Savigny-sur-Orge
+15 m²;15 000 €;Paris 19ème
+15 m²;15 200 €;Pontault Combault
+10 m²;15 500 €;Paris 19ème
+15 m²;15 500 €;Ermont
+11.67 m²;16 000 €;Fresnes
+12 m²;16 000 €;Saint-Maur-des-Fossés
+15 m²;16 000 €;Domont
+12 m²;16 500 €;Puteaux
+11 m²;16 500 €;Paris 20ème
+12.68 m²;17 000 €;La Garenne-Colombes
+12 m²;17 000 €;Saint-Mandé
+15 m²;17 000 €;Conflans Sainte Honorine
+12 m²;18 000 €;Paris 20ème
+15 m²;18 000 €;Rosny sous Bois
+12 m²;18 500 €;Paris 19ème
+14 m²;19 000 €;Paris 20ème
+10.14 m²;19 900 €;Paris 14ème
+11.76 m²;20 000 €;Paris 12ème
+12 m²;20 000 €;Paris 20ème
+15 m²;20 000 €;Les Lilas
+9.45 m²;20 000 €;Levallois Perret
+23.1 m²;20 000 €;Gretz Armainvilliers
+10 m²;20 000 €;Paris 12ème
+15 m²;20 000 €;Palaiseau
+10 m²;20 000 €;Paris 15ème
+11 m²;20 500 €;Paris 12ème
+17.7 m²;20 573 €;Argenteuil
+13 m²;21 000 €;Pantin
+13.26 m²;21 500 €;Paris 14ème
+12 m²;21 500 €;Paris 7ème
+12 m²;22 000 €;Paris 11ème
+11 m²;22 000 €;Montrouge
+12 m²;22 400 €;Paris 14ème
+11 m²;22 500 €;Paris 19ème
+12 m²;22 500 €;Courbevoie
+8 m²;23 000 €;Paris 15ème
+13 m²;23 000 €;Paris 20ème
+13 m²;23 000 €;Paris 14ème
+15 m²;23 000 €;Paris 14ème
+15 m²;24 000 €;Levallois-Perret
+11 m²;24 000 €;Paris 11ème
+13.54 m²;24 000 €;Paris 19ème
+13 m²;24 500 €;Paris 19ème
+12 m²;25 000 €;Paris 18ème
+12.25 m²;25 000 €;Paris 19ème
+13 m²;25 000 €;Paris 11ème
+15 m²;25 000 €;Puteaux
+10 m²;25 000 €;Paris 11ème
+14 m²;25 000 €;Paris 12ème
+32 m²;25 000 €;Antony
+10 m²;25 100 €;Clamart
+12 m²;25 500 €;Paris 12ème
+11 m²;26 000 €;Paris 15ème
+12 m²;26 000 €;Boulogne Billancourt
+12 m²;26 000 €;Ville d Avray
+10 m²;26 000 €;Clamart
+14 m²;26 000 €;Boulogne-Billancourt
+12 m²;27 000 €;Paris 6ème
+14 m²;27 000 €;Paris 11ème
+12 m²;27 100 €;Clamart
+13 m²;28 000 €;Chambourcy
+12 m²;28 000 €;Paris 11ème
+12 m²;28 500 €;Asnieres sur Seine
+15 m²;28 700 €;Paris 14ème
+12 m²;29 000 €;Paris 16ème
+11 m²;29 500 €;Vincennes
+12 m²;29 900 €;Paris 16ème
+10 m²;30 000 €;Paris 6ème
+11.5 m²;30 000 €;Paris 15ème
+20 m²;30 000 €;Boulogne-Billancourt
+10 m²;30 000 €;Paris 10ème
+10 m²;31 000 €;Saint-Germain-en-Laye
+10 m²;31 000 €;Saint-Germain-en-Laye
+12 m²;31 000 €;Paris 15ème
+15 m²;32 900 €;Boulogne Billancourt
+15 m²;33 000 €;Paris 14ème
+12 m²;34 900 €;Paris 8ème
+12 m²;34 900 €;Neuilly sur Seine
+13 m²;35 000 €;Paris 5ème
+14.05 m²;35 000 €;Paris 15ème
+15 m²;35 000 €;Paris 14ème
+8 m²;36 000 €;Paris 9ème
+11 m²;36 500 €;Paris 17ème
+12 m²;36 750 €;Paris 17ème
+10 m²;37 000 €;Paris 4ème
+20 m²;38 000 €;Paris 11ème
+12 m²;38 500 €;Levallois-Perret
+12 m²;39 900 €;Paris 17ème
+9.8 m²;40 000 €;Paris 5ème
+10.5 m²;41 500 €;Paris 16ème
+12 m²;42 000 €;Paris 16ème
+19 m²;42 000 €;Neuilly sur Seine
+12 m²;43 500 €;Paris 17ème
+28 m²;44 000 €;Paris 19ème
+12 m²;44 000 €;Levallois Perret
+13.5 m²;44 000 €;Paris 15ème
+14 m²;44 000 €;Paris 13ème
+23 m²;44 900 €;Boulogne Billancourt
+13 m²;45 000 €;Paris 5ème
+7 m²;45 000 €;Paris 6ème
+17 m²;45 500 €;Paris 17ème
+12 m²;47 000 €;Paris 9ème
+13 m²;47 000 €;Paris 3ème
+23 m²;48 900 €;Paris 15ème
+11.5 m²;49 000 €;Paris 16ème
+23 m²;49 500 €;Versailles
+10 m²;50 000 €;Paris 7ème
+45 m²;52 500 €;Paris 19ème
+12 m²;54 500 €;Paris 16ème
+12 m²;54 900 €;Paris 16ème
+11 m²;55 000 €;Paris 16ème
+11 m²;55 900 €;Paris 8ème
+24 m²;58 000 €;Paris 9ème
+12 m²;58 500 €;Paris 17ème
+12 m²;59 000 €;Paris 3ème
+27 m²;59 900 €;Boulogne Billancourt
+16 m²;60 000 €;Paris 17ème
+11 m²;63 000 €;Paris 16ème
+12 m²;64 800 €;Paris 7ème
+12 m²;66 150 €;Paris 7ème
+12 m²;69 000 €;Paris 17ème
+12 m²;69 900 €;Paris 16ème
+12 m²;76 900 €;Paris 16ème
+63 m²;107 000 €;Nemours
+13 m²;12 000 €;Aulnay-sous-Bois
+12 m²;15 000 €;Neuilly-sur-Marne
+12 m²;17 000 €;Paris 20ème
+12 m²;23 000 €;Levallois-Perret
+8 m²;5 500 €;Le Mée-sur-Seine
+15 m²;6 300 €;Boussy St Antoine
+11 m²;7 500 €;Les Ulis
+10 m²;8 000 €;Franconville
+11 m²;8 900 €;Draveil
+12 m²;9 900 €;Saint Ouen l Aumone
+12 m²;11 000 €;Montreuil
+16.17 m²;12 500 €;Meaux
+8 m²;16 000 €;Le Chesnay
+16 m²;18 000 €;Rueil-Malmaison
+8 m²;19 000 €;Paris 15ème
+12 m²;66 150 €;Paris 7ème
+12 m²;69 000 €;Paris 17ème
+12 m²;69 900 €;Paris 16ème
+12 m²;76 900 €;Paris 16ème
+63 m²;107 000 €;Nemours
+13 m²;12 000 €;Aulnay-sous-Bois
+12 m²;15 000 €;Neuilly-sur-Marne
+12 m²;17 000 €;Paris 20ème
+12 m²;23 000 €;Levallois-Perret
+8 m²;5 500 €;Le Mée-sur-Seine
+15 m²;6 300 €;Boussy St Antoine
+11 m²;7 500 €;Les Ulis
+10 m²;8 000 €;Franconville
+11 m²;8 900 €;Draveil
+12 m²;9 900 €;Saint Ouen l Aumone
+12 m²;11 000 €;Montreuil
+16.17 m²;12 500 €;Meaux
+8 m²;16 000 €;Le Chesnay
+16 m²;18 000 €;Rueil-Malmaison
+8 m²;19 000 €;Paris 15ème
+12 m²;7 500 €;Grigny
+10 m²;7 800 €;Saint-Germain-en-Laye
+12.5 m²;8 500 €;Eragny
+10 m²;9 000 €;Montigny-le-Bretonneux
+15 m²;10 000 €;Serris
+12 m²;11 000 €;Alfortville
+16 m²;12 000 €;Gagny
+13 m²;12 100 €;Creteil
+12.21 m²;12 900 €;Sarcelles
+13 m²;13 000 €;Saintry-sur-Seine
+11 m²;14 000 €;Ivry-sur-Seine
+15 m²;14 500 €;Conflans Ste Honorine
+23 m²;15 120 €;Vitry sur Seine
+12 m²;15 500 €;Gagny
+12 m²;16 000 €;Le Kremlin Bicetre
+10 m²;17 000 €;Paris 10ème
+12 m²;17 000 €;Paris 19ème
+20 m²;17 500 €;Paris 19ème
+9 m²;18 000 €;Paris 15ème
+12 m²;18 000 €;Montrouge
+9 m²;18 500 €;Gentilly
+10 m²;18 500 €;Paris 19ème
+12 m²;19 000 €;Paris 18ème
+12 m²;20 500 €;Paris 19ème
+12 m²;21 000 €;Paris 10ème
+13 m²;21 000 €;Boulogne-Billancourt
+10.52 m²;21 000 €;Paris 15ème
+10.52 m²;21 000 €;Paris 15ème
+10.52 m²;21 000 €;Paris 15ème
+10 m²;22 000 €;Paris 15ème
+12 m²;22 000 €;Paris 13ème
+10 m²;23 000 €;Boulogne-Billancourt
+4 m²;23 500 €;Paris 14ème
+12 m²;23 900 €;Paris 10ème
+10 m²;24 000 €;Paris 15ème
+10 m²;25 000 €;Boulogne-Billancourt
+8 m²;25 000 €;Paris 5ème
+11.2 m²;25 000 €;Paris 15ème
+12 m²;25 000 €;Boulogne-Billancourt
+14 m²;25 000 €;Chennevières-sur-Marne
+9 m²;40 000 €;Paris 16ème
+10 m²;42 000 €;Paris 18ème
+12 m²;45 000 €;Paris 8ème
+8 m²;47 000 €;Paris 4ème
+14 m²;47 700 €;Paris 10ème
+11 m²;47 900 €;Paris 16ème
+12 m²;50 000 €;Paris 7ème
+12 m²;53 000 €;Paris 16ème
+16 m²;53 500 €;Paris 16ème
+12 m²;54 000 €;Paris 2ème
+12 m²;54 900 €;Paris 5ème
+13 m²;55 000 €;Paris 8ème
+15 m²;55 000 €;Paris 16ème
+12 m²;55 000 €;Paris 16ème
+13 m²;60 000 €;Longperrier
+12 m²;61 000 €;Paris 16ème
+72 m²;81 000 €;Montfermeil
+18 m²;110 000 €;Paris 16ème
+100 m²;235 000 €;Paris 12ème
+150 m²;250 000 €;Paris 12ème
+125 m²;474 600 €;Ste Genevieve des Bois
+12.88 m²;24 900 €;Paris 11ème
+10 m²;8 000 €;Franconville
+16.5 m²;8 500 €;Conflans Ste Honorine
+12.5 m²;9 000 €;Massy
+12.5 m²;10 000 €;Etampes
+14 m²;11 000 €;Le Mée-sur-Seine
+11.5 m²;11 000 €;Paris 13ème
+12 m²;11 500 €;Les Lilas
+12 m²;12 000 €;Les Lilas
+10 m²;13 750 €;Paris 18ème
+15 m²;14 500 €;Conflans Ste Honorine
+10.75 m²;14 500 €;Fresnes
+12 m²;14 900 €;Paris 19ème
+12 m²;15 000 €;Melun
+13 m²;15 500 €;Neuilly-sur-Marne
+10 m²;16 000 €;Bondy
+10 m²;16 500 €;Vaucresson
+18 m²;17 000 €;Claye Souilly
+12 m²;17 400 €;Paris 14ème
+12 m²;17 500 €;Paris 10ème
+12 m²;18 000 €;Colombes
+11 m²;19 000 €;Paris 18ème
+15 m²;19 000 €;Montreuil
+11 m²;19 700 €;Paris 11ème
+12 m²;20 000 €;Paris 18ème
+13 m²;20 000 €;Pantin
+11.58 m²;20 000 €;Paris 18ème
+12.03 m²;21 000 €;Paris 10ème
+12 m²;22 000 €;Paris 18ème
+12.3 m²;25 000 €;Paris 15ème
+12 m²;25 000 €;Paris 11ème
+12 m²;25 000 €;Boulogne Billancourt
+13 m²;26 900 €;Paris 18ème
+12 m²;27 000 €;Paris 17ème
+12 m²;27 000 €;Paris 14ème
+10 m²;28 000 €;Paris 18ème
+10 m²;28 000 €;Paris 11ème
+13 m²;29 500 €;Viroflay
+10 m²;30 000 €;Paris 11ème
+10 m²;30 000 €;Paris 11ème
+12 m²;35 000 €;Paris 10ème
+10 m²;35 000 €;Paris 17ème
+13 m²;37 000 €;Boulogne-Billancourt
+12 m²;38 500 €;Paris 6ème
+28 m²;41 800 €;Paris 15ème
+12 m²;45 000 €;Paris 8ème
+10 m²;46 000 €;Paris 4ème
+12 m²;48 000 €;Paris 9ème
+18 m²;50 000 €;Paris 8ème
+1 m²;50 000 €;Paris 17ème
+10 m²;50 900 €;Paris 16ème
+12 m²;54 900 €;Paris 3ème
+12.5 m²;55 000 €;Paris 16ème
+10 m²;59 000 €;Paris 6ème
+1880 m²;1 200 000 €;Montfermeil
+15 m²;27 000 €;Puteaux
+10 m²;31 800 €;Paris 18ème
+12.5 m²;9 000 €;Villiers le Bel
+10 m²;10 000 €;Noisy le Sec
+11.5 m²;10 000 €;Paris 13ème
+7.2 m²;12 000 €;Paris 13ème
+11.3 m²;13 000 €;Paris 13ème
+14 m²;14 000 €;Eaubonne
+15 m²;14 000 €;Avon
+12 m²;14 500 €;Aulnay-sous-Bois
+12 m²;15 000 €;Chennevières-sur-Marne
+17 m²;16 500 €;Cormeilles-en-Parisis
+12 m²;17 000 €;Carrières-sur-Seine
+9.5 m²;17 500 €;Paris 10ème
+11.6 m²;19 000 €;Paris 10ème
+11 m²;22 000 €;Charenton-le-Pont
+15.34 m²;22 500 €;Paris 14ème
+15.3 m²;23 000 €;Paris 19ème
+14.4 m²;24 000 €;Paris 13ème
+20 m²;27 000 €;Le Kremlin Bicetre
+11.2 m²;35 000 €;Neuilly sur Seine
+13.92 m²;35 000 €;Paris 20ème
+9 m²;35 500 €;Paris 4ème
+15 m²;40 000 €;Paris 3ème
+24 m²;46 000 €;Paris 10ème
+21 m²;52 000 €;Paris 9ème
+19.68 m²;76 920 €;Paris 17ème
+9 m²;2 500 €;Evry
+12 m²;7 000 €;Lagny sur Marne
+11.52 m²;7 500 €;Mantes la Jolie
+11.16 m²;8 200 €;Trappes
+12 m²;9 000 €;Creteil
+11.49 m²;9 500 €;Paris 20ème
+12 m²;9 500 €;Aubervilliers
+16.5 m²;10 000 €;Brie Comte Robert
+17.55 m²;10 000 €;Brie Comte Robert
+16.55 m²;10 000 €;Brie Comte Robert
+15 m²;11 000 €;Lognes
+10.08 m²;13 500 €;Paris 13ème
+10 m²;14 000 €;Colombes
+15 m²;14 000 €;Paris 13ème
+12 m²;14 000 €;Paris 20ème
+11 m²;14 000 €;Paris 13ème
+15.86 m²;15 000 €;Neuilly sur Marne
+18.8 m²;15 000 €;Paris 20ème
+7 m²;16 000 €;Paris 14ème
+11.15 m²;16 500 €;Paris 12ème
+14.1 m²;16 500 €;Sevres
+11 m²;16 500 €;Paris 20ème
+12 m²;16 500 €;Palaiseau
+10.15 m²;17 500 €;Paris 20ème
+12.5 m²;18 000 €;Versailles
+15 m²;18 000 €;Poissy
+12.5 m²;18 000 €;Champigny sur Marne
+14 m²;18 000 €;Avon
+14 m²;18 900 €;Paris 20ème
+10.04 m²;19 000 €;Paris 12ème
+12.8 m²;19 900 €;Viroflay
+12.8 m²;20 000 €;Paris 10ème
+9.24 m²;20 000 €;Paris 11ème
+12 m²;21 000 €;Levallois Perret
+15 m²;21 000 €;Paris 20ème
+12.8 m²;22 000 €;Paris 18ème
+11.5 m²;22 000 €;Paris 6ème
+18 m²;22 500 €;Paris 2ème
+11 m²;23 000 €;Boulogne Billancourt
+12 m²;23 000 €;Paris 15ème
+12 m²;23 500 €;Paris 10ème
+15.06 m²;23 815 €;Paris 20ème
+16.25 m²;24 000 €;Paris 13ème
+12 m²;24 200 €;Paris 11ème
+17 m²;25 000 €;Paris 15ème
+11.2 m²;25 000 €;Paris 15ème
+10.55 m²;25 000 €;Boulogne Billancourt
+10.32 m²;25 000 €;Paris 18ème
+11.75 m²;25 000 €;Boulogne Billancourt
+10 m²;26 000 €;Paris 12ème
+10.41 m²;26 000 €;Boulogne Billancourt
+10 m²;26 500 €;Paris 11ème
+12 m²;26 500 €;Paris 11ème
+12 m²;27 300 €;Montrouge
+12.47 m²;28 000 €;Paris 15ème
+11.5 m²;28 800 €;Paris 20ème
+10 m²;29 500 €;Paris 11ème
+14.5 m²;31 500 €;Paris 14ème
+13 m²;33 000 €;Paris 15ème
+10 m²;34 000 €;Paris 17ème
+22 m²;35 000 €;Paris 11ème
+12 m²;35 000 €;Levallois-Perret
+12 m²;35 000 €;Paris 15ème
+45 m²;38 000 €;Le Bourget
+10 m²;38 500 €;Paris 9ème
+14 m²;38 500 €;Paris 15ème
+19 m²;39 000 €;Paris 17ème
+19 m²;41 000 €;Paris 17ème
+19 m²;41 000 €;Paris 17ème
+36 m²;48 000 €;Courbevoie
+13 m²;49 300 €;Paris 16ème
+11.54 m²;55 000 €;Paris 16ème
+12.75 m²;55 000 €;Paris 9ème
+11.98 m²;55 000 €;Paris 3ème
+12 m²;56 680 €;Villeparisis
+56 m²;60 000 €;Mennecy
+12.65 m²;65 000 €;Paris 17ème
+23 m²;66 000 €;Paris 9ème
+12 m²;840 000 €;Paris 16ème
+14 m²;5 000 €;Chevilly Larue
+13.25 m²;8 000 €;Brie Comte Robert
+14 m²;8 000 €;Brie Comte Robert
+13.2 m²;8 000 €;Brie Comte Robert
+14 m²;9 000 €;Brie Comte Robert
+16 m²;10 000 €;Brie Comte Robert
+7 m²;11 000 €;Paris 19ème
+12 m²;13 000 €;Cormeilles-en-Parisis
+12 m²;14 000 €;Paris 13ème
+12 m²;14 000 €;Pontoise
+12.6 m²;16 500 €;Villejuif
+13 m²;19 500 €;Sevres
+15 m²;20 000 €;Houilles
+14 m²;22 500 €;Paris 13ème
+9 m²;23 500 €;Nogent sur Marne
+14 m²;24 000 €;Garches
+14 m²;25 000 €;Paris 11ème
+12 m²;27 500 €;Paris 19ème
+10 m²;28 000 €;Paris 14ème
+13.75 m²;32 500 €;Paris 15ème
+11 m²;35 000 €;Paris 3ème
+12 m²;36 000 €;Paris 3ème
+28 m²;42 000 €;Nanterre
+12.5 m²;5 000 €;Cormeilles en Parisis
+12 m²;5 500 €;L Hay les Roses
+11 m²;8 000 €;Paris 13ème
+11 m²;9 500 €;Choisy le Roi
+12 m²;10 000 €;Le Plessis Trevise
+11 m²;10 800 €;Choisy le Roi
+10 m²;11 000 €;Paris 18ème
+12.2 m²;11 000 €;Maisons Alfort
+12 m²;12 000 €;Vaujours
+15 m²;12 000 €;Evry
+15 m²;14 000 €;Neuilly sur Marne
+12 m²;15 000 €;Paris 13ème
+12 m²;15 000 €;Paris 19ème
+17.54 m²;15 000 €;Créteil
+10 m²;15 000 €;Colombes
+12 m²;15 500 €;Houilles
+10 m²;15 900 €;Paris 20ème
+12 m²;16 000 €;Vincennes
+14 m²;16 000 €;Evry
+22 m²;16 000 €;Dammartin en Goele
+12.37 m²;16 500 €;Massy
+11 m²;17 000 €;Herblay
+11 m²;17 500 €;Suresnes
+11 m²;17 500 €;Suresnes
+11 m²;18 000 €;Le Pecq
+12.35 m²;19 000 €;St Maur des Fosses
+25 m²;20 000 €;Aubervilliers
+12 m²;20 000 €;Suresnes
+20 m²;20 400 €;Montrouge
+15 m²;21 000 €;Nanterre
+11 m²;21 000 €;Paris 10ème
+15 m²;21 000 €;Chevilly Larue
+12.5 m²;21 000 €;Asnieres sur Seine
+11.54 m²;21 000 €;Boulogne Billancourt
+12 m²;21 900 €;Paris 20ème
+14.47 m²;22 000 €;Sartrouville
+30 m²;23 000 €;Paris 20ème
+11 m²;23 000 €;Paris 12ème
+15 m²;23 000 €;Paris 13ème
+12 m²;23 500 €;Levallois-Perret
+24 m²;24 000 €;Charenton le Pont
+13 m²;24 500 €;Paris 12ème
+8.56 m²;25 000 €;Paris 5ème
+15 m²;25 800 €;Paris 11ème
+9 m²;27 000 €;Paris 9ème
+13 m²;28 500 €;Vincennes
+24 m²;33 000 €;Viroflay
+12 m²;35 000 €;Paris 3ème
+12 m²;45 000 €;Paris 6ème
+19.5 m²;46 000 €;Paris 18ème
+50 m²;50 500 €;Fontenay sous Bois
+20.65 m²;65 400 €;Paris 2ème
+14 m²;9 000 €;Corbeil Essonnes
+15 m²;15 000 €;Louvres
+12 m²;15 000 €;Pontault-Combault
+12 m²;15 500 €;Paris 20ème
+13 m²;16 000 €;Paris 4ème
+12 m²;17 500 €;L Hay les Roses
+15 m²;26 000 €;Cachan
+14.34 m²;27 500 €;Paris 13ème
+14 m²;33 000 €;Paris 11ème
+11.87 m²;35 000 €;Paris 15ème
+1 m²;35 000 €;Paris 7ème
+14 m²;37 000 €;Paris 11ème
+40 m²;40 000 €;Gentilly
+12 m²;70 000 €;Paris 16ème
+81 m²;132 000 €;Paris 19ème
+12 m²;4 500 €;Creteil
+18.5 m²;7 000 €;Corbeil Essonnes
+14 m²;7 000 €;Brunoy
+8 m²;7 500 €;Achères
+13 m²;16 000 €;Livry Gargan
+14.05 m²;18 000 €;Vanves
+10 m²;20 000 €;Puteaux
+13 m²;21 500 €;Paris 18ème
+10.82 m²;22 000 €;Le Perreux-sur-Marne
+13.64 m²;22 500 €;Paris 18ème
+14 m²;23 000 €;Noisy le Grand
+11 m²;24 000 €;Paris 11ème
+10 m²;28 000 €;Paris 9ème
+21 m²;29 990 €;St Pierre les Nemours
+11.3 m²;31 000 €;Paris 15ème
+20.89 m²;35 000 €;Le Perreux sur Marne
+12 m²;42 000 €;Paris 14ème
+8 m²;43 000 €;Paris 7ème
+11 m²;45 000 €;Paris 4ème
+12 m²;49 000 €;Paris 8ème
+36 m²;88 000 €;Persan
+5 m²;3 500 €;Montigny les Cormeilles
+12.5 m²;5 000 €;Cormeilles-en-Parisis
+12.5 m²;5 900 €;Bobigny
+12 m²;7 000 €;Évry
+14 m²;7 900 €;Chevilly Larue
+12 m²;8 000 €;Epinay sous Senart
+12.5 m²;8 000 €;Brunoy
+15 m²;8 000 €;Etampes
+12 m²;9 000 €;Pontoise
+5 m²;9 000 €;Aubervilliers
+12 m²;9 900 €;Viroflay
+12 m²;10 000 €;Lognes
+8 m²;10 500 €;Paris 19ème
+12 m²;10 500 €;Paris 19ème
+12 m²;11 000 €;Paris 18ème
+12 m²;12 000 €;Noisy le Grand
+13 m²;12 000 €;Aubervilliers
+13 m²;12 500 €;Brunoy
+9 m²;13 000 €;Puteaux
+10 m²;13 500 €;Paris 20ème
+10 m²;13 500 €;Domont
+15 m²;13 600 €;Noisy le Grand
+13 m²;16 000 €;Villejuif
+10 m²;16 000 €;Les Lilas
+10 m²;16 500 €;Paris 10ème
+10 m²;16 500 €;Saint-Mandé
+13.89 m²;16 600 €;Noisy le Grand
+10 m²;17 000 €;Paris 18ème
+16 m²;17 000 €;Paris 13ème
+15 m²;17 500 €;Paris 13ème
+12 m²;17 500 €;Saint-Germain-en-Laye
+22 m²;17 800 €;Thorigny-sur-Marne
+12 m²;18 300 €;Paris 14ème
+15 m²;19 000 €;Suresnes
+12 m²;19 000 €;Ville d Avray
+40 m²;19 500 €;Meaux
+24 m²;20 000 €;Lognes
+10 m²;20 000 €;Paris 13ème
+11 m²;21 000 €;Saint-Mandé
+12 m²;21 000 €;Levallois Perret
+12 m²;21 500 €;Paris 18ème
+12 m²;21 500 €;Paris 18ème
+25 m²;22 000 €;Aubervilliers
+6 m²;23 000 €;Paris 18ème
+11 m²;24 000 €;Paris 12ème
+14 m²;24 000 €;Paris 19ème
+17 m²;24 815 €;Vincennes
+15 m²;25 000 €;Triel sur Seine
+12 m²;25 000 €;Paris 11ème
+12 m²;25 000 €;Paris 11ème
+8 m²;25 000 €;Paris 15ème
+12 m²;25 000 €;Paris 11ème
+13 m²;25 000 €;Vincennes
+15 m²;26 000 €;Paris 18ème
+15 m²;26 000 €;Paris 18ème
+15 m²;26 000 €;Paris 18ème
+7 m²;26 750 €;Montfort l Amaury
+22 m²;28 000 €;Montreuil
+18 m²;28 000 €;Asnières-sur-Seine
+18.4 m²;29 500 €;Paris 11ème
+12 m²;29 500 €;Paris 11ème
+16 m²;30 000 €;Paris 11ème
+10 m²;31 500 €;Levallois-Perret
+12 m²;32 000 €;Paris 20ème
+11 m²;33 000 €;Paris 15ème
+12.47 m²;33 000 €;Boulogne-Billancourt
+14 m²;33 000 €;Vanves
+12 m²;33 000 €;Issy les Moulineaux
+12.5 m²;38 000 €;Paris 16ème
+11 m²;39 500 €;Paris 15ème
+12.5 m²;39 500 €;Boulogne Billancourt
+11 m²;39 500 €;Paris 15ème
+16 m²;40 000 €;Paris 4ème
+11.6 m²;40 000 €;Paris 8ème
+12.7 m²;41 000 €;Issy les Moulineaux
+10 m²;42 000 €;Paris 8ème
+12 m²;45 000 €;Paris 6ème
+20 m²;45 000 €;Paris 18ème
+9 m²;47 400 €;Paris 17ème
+9 m²;50 000 €;Paris 5ème
+8 m²;50 000 €;Paris 16ème
+8 m²;50 000 €;Paris 16ème
+14 m²;51 500 €;Paris 3ème
+30 m²;52 000 €;Paris 19ème
+11.7 m²;55 000 €;Paris 17ème
+27 m²;66 000 €;Issy les Moulineaux
+10 m²;282 000 €;Paris 12ème
+12 m²;3 800 €;Stains
+12.9 m²;13 000 €;Mennecy
+10 m²;13 500 €;Domont
+4 m²;6 000 €;Brétigny-sur-Orge
+4 m²;6 000 €;Brétigny-sur-Orge
+10 m²;7 000 €;Aulnay sous Bois
+14.04 m²;14 000 €;Andresy
+14.3 m²;14 500 €;Les Pavillons-sous-Bois
+12 m²;14 500 €;Colombes
+11.7 m²;15 500 €;Paris 20ème
+12 m²;20 500 €;Paris 13ème
+11 m²;21 000 €;Paris 20ème
+15 m²;22 000 €;Aubervilliers
+15 m²;26 000 €;Paris 18ème
+10 m²;28 000 €;Paris 12ème
+12 m²;28 000 €;Paris 14ème
+15 m²;30 000 €;Paris 15ème
+10 m²;30 000 €;Paris 17ème
+10 m²;33 000 €;Paris 12ème
+9 m²;35 000 €;Paris 6ème
+14 m²;43 000 €;Paris 17ème
+86 m²;55 000 €;Epone
+1 m²;12 000 €;Maisons Alfort
+1 m²;16 000 €;Maisons Alfort
+11 m²;17 000 €;Colombes
+10 m²;17 500 €;Saint-Cloud
+17 m²;18 500 €;Bois d Arcy
+9.92 m²;19 500 €;Versailles
+9.4 m²;20 000 €;Paris 11ème
+10 m²;23 000 €;Paris 15ème
+8 m²;23 000 €;Paris 9ème
+12 m²;29 500 €;Paris 15ème
+12 m²;32 500 €;Paris 10ème
+9.86 m²;33 000 €;Paris 18ème
+31.3 m²;33 000 €;Rueil-Malmaison
+12 m²;35 000 €;Paris 14ème
+22 m²;38 000 €;Paris 11ème
+12 m²;44 900 €;Paris 8ème
+11 m²;53 000 €;Paris 16ème
+12 m²;60 000 €;Paris 8ème
+12 m²;3 500 €;Limay
+10 m²;10 000 €;Le Kremlin Bicêtre
+30 m²;12 000 €;Le Mee sur Seine
+12.54 m²;19 000 €;Gentilly
+12 m²;19 900 €;Paris 12ème
+9 m²;24 000 €;La Varenne Saint Hilaire
+18 m²;36 000 €;Viroflay
+10 m²;85 000 €;Paris 6ème

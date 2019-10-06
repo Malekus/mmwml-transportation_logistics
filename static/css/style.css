@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    height: 54px;
+    background: #000;
+}
+
+#header {
+    height: calc(100vh - 54px);
+    width: 100%;
+    background-image: url("bg_parking.png");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+#header h1 {
+    color: white;
+    text-align: center;
+    background-color: #000;
+    opacity: 0.8;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 90px;
+    padding: 10px 0px;
+}
+
+#payement {
+    margin: 10vh 0px;
+    width: 100%;
+    height: auto;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.payemet_card {
+    width: 33.33%;
+    float: left;
+    text-align: center;
+}
+
+.payemet_card ul {
+    list-style-type: none;
+}
+
+.bg-greyC {
+    background-color: #dfe6e9!important;
+}
+
+.bg-greyD{
+    background-color: #b2bec3!important;
+}
+
+.bg-darkD{
+    background-color: #000!important;
+}

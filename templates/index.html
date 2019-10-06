@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+    <title>Parking Space AI</title>
+</head>
+<body>
+        <nav class="bg-darkD">
+            <div class="float-left mr-5 py-2">
+                <ul>
+                    <li>
+                        <a href="{{ url_for('index') }}" class="nav-link text-white">Parking Space AI</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="float-right mr-5 py-2">
+                <a href="/signin" class="btn btn-primary">Sign in</a>
+                <a href="/signup" class="btn btn-secondary">Sign up</a>
+            </div>
+        </nav>
+    <div id="header">
+        <h1>
+            Parking Space AI
+        </h1>
+    </div>
+
+    <div id="payement">
+        <div class="payemet_card bg-greyC">
+            <h2>One-time</h2>
+            <ul>
+                <li>10 USD per automated parking predictions</li>
+                <li>Email support</li>
+                <li>Instant delivery</li>
+            </ul>
+            <a href="/connected" class="btn btn-primary">Pay with Card</a>
+        </div>
+        <div class="payemet_card bg-greyD">
+            <h2>Prenium</h2>
+                <ul>
+                    <li>1000 USD/month, up to 300 parking predictions</li>
+                    <li>24/7 chat support</li>
+                    <li>Privacy Guaranted</li>
+                </ul>
+                <a href="/connected" class="btn btn-primary">Pay with Card</a>
+        </div>
+        <div class="payemet_card bg-greyC">
+            <h2>Entreprise</h2>
+                <ul>
+                    <li>10 USD per automated parking prediction</li>
+                    <li>Email support</li>
+                    <li>Instant delivery</li>
+                </ul>
+                <a href="/connected" class="btn btn-primary">Pay with Card</a>
+        </div>
+    </div>
+
+</body>
+</html>
+
